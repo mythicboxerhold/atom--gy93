@@ -1,4 +1,4 @@
-# 
+# Enhance Sublime Text for PC | Sublime Text for Windows with Sublime Text for PC | Sublime Text for Windows updated Script: debugging & snippets, the #1 script. Includes debugging
 
 
 
